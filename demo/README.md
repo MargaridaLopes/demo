@@ -19,6 +19,8 @@ iii. To start Apache HTTP Server on **Hospital VM** open a terminal and run the 
 ```
 sudo /opt/lampp/lampp restart
 ```
+![alt text](https://github.com/MargaridaLopes/demo/blob/main/demo/img/1_i_ii_iii_iv.PNG)
+
 iv. Now open Firefox browser and access to *https://localhost/apiSIRS/* to visualize the application. The code for the application can be found  in */opt/lampp/htdocs/apiSIRS/* folder.
 
 ### 2. Running The Application 
